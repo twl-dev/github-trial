@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: ExampleSite
+title: Wing Leung's first github page
 paginate: 5
 theme: PaperMod
 
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hello world!  \U0001F44B"
+    Content: Welcome to my first github page
 
   socialIcons:
     - name: x
