@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: Wing Leung's first github page
+title: About Wing Leung
 paginate: 5
 theme: PaperMod
 
@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
-  description: "ExampleSite description"
+  description: "About me"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello world!  \U0001F44B"
-    Content: Welcome to my first github page
+    Content: Welcome to my first github page.
 
   socialIcons:
     - name: x
@@ -80,7 +80,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/123"
 
   analytics:
     google:
