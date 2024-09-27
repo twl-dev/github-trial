@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: About Wing Leung
-  description: "About Wing Leung"
+  title: Know more about Wing Leung
+  description: "This is my first Github Page using Hugo, and I am a digital marketing based in Hong Kong with 12 years of experience in website marketing, seo, sem and social media strategy for the Southeast Asia Market."
   keywords: [Digital Marketing, Social Media Marketing, Website Marketing, Blog, Portfolio, PaperMod]
   author: Wing Leung 
   # author: ["Me", "You"] # multiple authors
@@ -50,14 +50,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Wing Leung's Github Page"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Welcome to my first Github Page by Hugo
+    title: This is my first GitHub Page using [Hugo](https://gohugo.io)
     subtitle: "Experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "<img location>"
     imageWidth: 120
@@ -66,8 +66,8 @@ params:
     buttons:
       - name: Blog
         url: https://www.wingleung.me/
-      - name: Tags
-        url: tags
+      - name: Contact
+        url: mailto:hi@wingleung.me
 
   # home-info mode
   homeInfoParams:
@@ -75,12 +75,12 @@ params:
     Content: Welcome to my first github page in 2024.
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: instagram
+      url: "https://www.instagram.com/chtwlaa/"
+    - name: threads
+      url: "https://www.threads.net/@chtwlaa"
     - name: github
-      url: "https://github.com/demo-change"
+      url: "https://github.com/twl-dev"
 
   analytics:
     google:
@@ -97,7 +97,7 @@ params:
 
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    Text: "" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -121,11 +121,12 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: Blog
+      name: Blog
+      url: https://www.wingleung.me
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+
 pygmentsUseClasses: true
 markup:
   highlight:
