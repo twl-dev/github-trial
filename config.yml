@@ -14,15 +14,15 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "About me"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: About Wing Leung
+  description: "About Wing Leung"
+  keywords: [Digital Marketing, Social Media Marketing, Website Marketing, Blog, Portfolio, PaperMod]
+  author: Wing Leung 
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -56,16 +56,16 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    enabled: true # needs to be explicitly set
+    title: Welcome to my first Github Page by Hugo
+    subtitle: "Experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
+      - name: Blog
+        url: https://www.wingleung.me/
       - name: Tags
         url: tags
 
