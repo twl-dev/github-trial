@@ -65,10 +65,9 @@ params:
     imageTitle: About Wing Leung
     buttons:
       - name: Blog
-        url: "https://www.wingleung.me/"
-      - name: Github
-        url: "https://github.com/twl-dev/"
-      
+        url: https://www.wingleung.me/
+      - name: Contact
+        url: mailto:hi@wingleung.me
 
   # home-info mode
   homeInfoParams:
