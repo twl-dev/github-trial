@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Wing Leung's Github Page"
+    text: "About Wing Leung"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -62,12 +62,15 @@ params:
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: About Wing Leung
     buttons:
       - name: Blog
-        url: https://www.wingleung.me/
+        url: "https://www.wingleung.me/""
       - name: Contact
-        url: mailto:hi@wingleung.me
+        url: "mailto:hi@wingleung.me"
+      - name: Github
+        url: "https://github.com/twl-dev/""
+      
 
   # home-info mode
   homeInfoParams:
@@ -79,6 +82,8 @@ params:
       url: "https://www.instagram.com/chtwlaa/"
     - name: threads
       url: "https://www.threads.net/@chtwlaa"
+    - name: youtube
+      url: "https://www.youtube.com/@wingleungsblog2.086"
     - name: github
       url: "https://github.com/twl-dev"
 
