@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Know more about Wing Leung
-  description: "This is my first Github Page using Hugo, and I am a digital marketing based in Hong Kong with 12 years of experience in website marketing, seo, sem and social media strategy for the Southeast Asia Market."
+  title: Greetings, this is Wing Leung.
+  description: "An experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
   keywords: [Digital Marketing, Social Media Marketing, Website Marketing, Blog, Portfolio, PaperMod]
   author: Wing Leung 
   # author: ["Me", "You"] # multiple authors
@@ -50,24 +50,25 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Wing Leung's Github Page"
+    text: "About Wing Leung"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: This is my first GitHub Page using [Hugo](https://gohugo.io)
-    subtitle: "Experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
+    title: Greetings, this is Wing Leung.
+    subtitle: "An experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: About Wing Leung
     buttons:
       - name: Blog
-        url: https://www.wingleung.me/
-      - name: Contact
-        url: mailto:hi@wingleung.me
+        url: "https://www.wingleung.me/"
+      - name: Github
+        url: "https://github.com/twl-dev/"
+      
 
   # home-info mode
   homeInfoParams:
@@ -79,8 +80,12 @@ params:
       url: "https://www.instagram.com/chtwlaa/"
     - name: threads
       url: "https://www.threads.net/@chtwlaa"
+    - name: youtube
+      url: "https://www.youtube.com/@wingleungsblog2.086"
     - name: github
       url: "https://github.com/twl-dev"
+    - name: email 
+      url: "mailto: hi@wingleung.me"
 
   analytics:
     google:
