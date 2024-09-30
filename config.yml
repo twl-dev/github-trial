@@ -65,11 +65,11 @@ params:
     imageTitle: About Wing Leung
     buttons:
       - name: Blog
-        url: "https://www.wingleung.me/""
+        url: "https://www.wingleung.me/"
       - name: Contact
         url: "mailto:hi@wingleung.me"
       - name: Github
-        url: "https://github.com/twl-dev/""
+        url: "https://github.com/twl-dev/"
       
 
   # home-info mode
