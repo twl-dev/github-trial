@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://about.wingleung.me"
 title: About Wing Leung
 paginate: 5
 theme: PaperMod
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Know more about Wing Leung
-  description: "This is my first Github Page using Hugo, and I am a digital marketing based in Hong Kong with 12 years of experience in website marketing, seo, sem and social media strategy for the Southeast Asia Market."
+  title: Greetings, this is Wing Leung.
+  description: "A Hong Kong digital enthusiast with 12 years of experience in the Southeast Asia Market."
   keywords: [Digital Marketing, Social Media Marketing, Website Marketing, Blog, Portfolio, PaperMod]
   author: Wing Leung 
   # author: ["Me", "You"] # multiple authors
@@ -24,7 +24,7 @@ params:
   defaultTheme: dark # dark, light
   disableThemeToggle: true
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -51,21 +51,21 @@ params:
 
   label:
     text: "About Wing Leung"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: ""
+    iconHeight: 50
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: This is my first GitHub Page using [Hugo](https://gohugo.io)
-    subtitle: "Experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
+    title: Greetings, this is Wing Leung
+    subtitle: "Experienced digital marketer from Hong Kong with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: About Wing Leung
     buttons:
       - name: Blog
-        url: "https://www.wingleung.me/"
+        url: "https://www.wingleung.me/""
       - name: Contact
         url: "mailto:hi@wingleung.me"
       - name: Github
@@ -86,6 +86,8 @@ params:
       url: "https://www.youtube.com/@wingleungsblog2.086"
     - name: github
       url: "https://github.com/twl-dev"
+    - name: email
+      url: "mailto:hi@wingleung.me"
 
   analytics:
     google:
@@ -97,8 +99,8 @@ params:
 
   cover:
     hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
@@ -118,18 +120,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: About
+      name: about
+      url: /about/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: Portfolios
+      name: portfolios
+      url: /portfolios/
       weight: 20
-    - identifier: Blog
-      name: Blog
+    - identifier: blog
+      name: blog
       url: https://www.wingleung.me
       weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 
 pygmentsUseClasses: true
@@ -141,3 +147,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
