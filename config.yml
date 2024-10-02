@@ -57,14 +57,16 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: This is my first GitHub Page using [Hugo](https://gohugo.io)
-    subtitle: "Experienced digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
+    title: "Greetings, this is Wing Leung"
+    subtitle: "A digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: About Wing Leung
     buttons:
-      - name: Blog
+      - name: "Portfolios"
+        url: "/portfolios/"
+      - name: "Blog"
         url: "https://www.wingleung.me/"
       - name: Contact
         url: mailto:hi@wingleung.me

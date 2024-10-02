@@ -21,20 +21,20 @@ The Master Class Reality Show How to Lav is set to revolutionize the way profess
 
 Throughout the evening, participants will have the unique opportunity to interact with Daniele Turi, engaging in a dynamic exchange of ideas, challenges, and best practices. Turi's extensive experience in the audio industry, coupled with his innovative approach, will shed light on the most effective methods for capturing pristine audio in demanding shooting environments.
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](/images/deity-002.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-002.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-005.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-005.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-006.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-006.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-007.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-007.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
 
 
 Deity Microphones, the event organizer, will be showcasing their cutting-edge microphones and pro-audio devices, offering attendees hands-on experience with state-of-the-art equipment. 
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-003.jpg "Deity wierless microphone system")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-003.jpg "Deity wierless microphone system")
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-004.jpg "Deity supported all the audio equipment in the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-004.jpg "Deity supported all the audio equipment in the event")
 
 
 This collaboration between Deity Microphones and Viviana Sound Solutions promises to provide a comprehensive overview of the latest advancements in audio technology, empowering professionals to elevate their sound recording capabilities.
@@ -43,7 +43,7 @@ This collaboration between Deity Microphones and Viviana Sound Solutions promise
 
 With over 50 participants, from pro-audio experts to famous social media video vloggers, expected to attend, the Master Class Reality Show How to Lav is set to be one of the largest master classes of the year. The event's interactive format will encourage collaboration, fostering an environment where attendees can learn from one another, share experiences, and gain practical insights to optimize their audio recording processes.
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-008.jpg "Over 50 participants attended the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-008.jpg "Over 50 participants attended the event")
 
 
 Hong Kong marks the first destination of the Viviana World Tour, solidifying the city's reputation as a hub for innovation and creativity. As the event gains momentum, it promises to captivate industry professionals, audio enthusiasts, and aspiring creatives alike.
