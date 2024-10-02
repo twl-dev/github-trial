@@ -15,7 +15,7 @@ Hong Kong, 22 February 2024 - Deity Microphones, a leading provider of professio
 
 {{<youtube g3VAuSjUSzY>}}
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav]("/images/deity-001.jpg")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav](/images/deity-001.jpg)
 
 The Master Class Reality Show How to Lav is set to revolutionize the way professionals approach audio recording in reality shows, outdoor TV programs and performing arts. With a focus on delivering exceptional sound quality, this event will provide attendees with invaluable insights, techniques, and demonstrations led by our honourable guest speaker and renowned audio expert, [Daniele Turi](https://www.instagram.com/turidaniele/), CEO of Viviana Sound Solutions.
 
