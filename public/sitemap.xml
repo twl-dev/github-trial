@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+<<<<<<< HEAD
+=======
+    <lastmod>2024-02-23T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolios/deity-microphones-viviana-sound-solutions/</loc>
+    <lastmod>2024-02-23T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolios/</loc>
+    <lastmod>2024-02-23T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+>>>>>>> d93e5408f1006746f8dc51031f0d9f6a2740086c
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
