@@ -1,5 +1,5 @@
 ---
-title: "Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav"
+title: "Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav"
 slug: "deity-microphones-viviana-sound-solutions"
 meta-description: "Wing Leung is a digital marketer based in Hong Kong, specializing in various aspects of digital marketing including content marketing, website management, SEO, SEM, and e-commerce strategy. My goal is to leverage my skills and experience to contribute to innovative marketing projects and help businesses grow in the digital landscape."
 tags: ["event marketing", "content marketing", "MC service", "PR marketing", "Deity", "Viviana Sound Solutions"]
@@ -15,13 +15,13 @@ Hong Kong, 22 February 2024 - Deity Microphones, a leading provider of professio
 
 {{<youtube g3VAuSjUSzY>}}
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav]("images/deity-001.jpg")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav]("/images/deity-001.jpg")
 
 The Master Class Reality Show How to Lav is set to revolutionize the way professionals approach audio recording in reality shows, outdoor TV programs and performing arts. With a focus on delivering exceptional sound quality, this event will provide attendees with invaluable insights, techniques, and demonstrations led by our honourable guest speaker and renowned audio expert, [Daniele Turi](https://www.instagram.com/turidaniele/), CEO of Viviana Sound Solutions.
 
 Throughout the evening, participants will have the unique opportunity to interact with Daniele Turi, engaging in a dynamic exchange of ideas, challenges, and best practices. Turi's extensive experience in the audio industry, coupled with his innovative approach, will shed light on the most effective methods for capturing pristine audio in demanding shooting environments.
 
-![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-002.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
+![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](/images/deity-002.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
 
 ![Deity Microphones X Viviana Sound Solutions: Master Class Hong KOng Reality Show: How to Lav](images/deity-005.jpg "Daniele Turi, the CEO of Viviana Sound demonstrated how to lav in the event")
 
