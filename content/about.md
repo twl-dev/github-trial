@@ -1,12 +1,11 @@
 ---
-title: "About Wing Leung"
+title: "About Me"
 slug: "about"
 meta-description: "Wing Leung is a digital marketer based in Hong Kong, specializing in various aspects of digital marketing including content marketing, website management, SEO, SEM, and e-commerce strategy. My goal is to leverage my skills and experience to contribute to innovative marketing projects and help businesses grow in the digital landscape."
 date: 2024-09-29T09:00:00+8
 ---
 
-I am a digital marketer based in Hong Kong, specializing in various aspects of digital marketing including content marketing, website management, SEO, SEM, and e-commerce strategy. My goal is to leverage my skills and experience to contribute to innovative marketing projects and help businesses grow in the digital landscape.
-
+I am a digital marketer based in Hong Kong, specializing in various aspects of digital marketing including content marketing, website development and marketing, search engine marketing SEO & SEM, and e-commerce strategy. My goal is to leverage my skills and experience to contribute to innovative marketing projects and help businesses grow in the digital landscape.
 
 ## Skills
 

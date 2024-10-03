@@ -14,12 +14,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Know more about Wing Leung
-  description: "This is my first Github Page using Hugo, and I am a digital marketing based in Hong Kong with 12 years of experience in website marketing, seo, sem and social media strategy for the Southeast Asia Market."
+  title: Know more about Wing Leung, a digital marketing in Hong Kong 
+  description: "This is my page made by Hugo, and I am a digital marketing based in Hong Kong with 12 years of experience in website marketing, seo, sem and social media strategy for the Southeast Asia Market."
   keywords: [Digital Marketing, Social Media Marketing, Website Marketing, Blog, Portfolio, PaperMod]
   author: Wing Leung 
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["images/wl-icon.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: true
@@ -43,37 +43,35 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "images/wl-icon.png"
+    favicon16x16: "images/wl-icon.png"
+    favicon32x32: "images/wl-icon.png"
+    apple_touch_icon: ""
+    safari_pinned_tab: ""
 
   label:
     text: "About Wing Leung"
-    icon: ""
-    iconHeight: 50
+    icon: "images/wl-icon.png"
+    iconHeight: 30
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Greetings, this is Wing Leung"
+    title: "Greetings, this is Wing Leung \U0001F44B"
     subtitle: "A digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
-    imageUrl: "<img location>"
+    imageUrl: "images/me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: About Wing Leung
     buttons:
       - name: "Portfolios"
         url: "/portfolios/"
-      - name: "Blog"
-        url: "https://www.wingleung.me/"
-      - name: Contact
+      - name: "Contact"
         url: mailto:hi@wingleung.me
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello world!  \U0001F44B"
+    Title: "Hello world! \U0001F44B"
     Content: Welcome to my first github page in 2024.
 
   socialIcons:
@@ -83,6 +81,8 @@ params:
       url: "https://www.threads.net/@chtwlaa"
     - name: youtube
       url: "https://www.youtube.com/@wingleungsblog2.086"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/twlaa/"
     - name: github
       url: "https://github.com/twl-dev"
 
